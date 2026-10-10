@@ -1,0 +1,4670 @@
+[
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "BDU Shirt Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/BDU Shirt Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "BDU Shirt Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/BDU Shirt Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Burlap Shirt Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Burlap Shirt Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Dracula Cape Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Dracula Cape Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Grass Skirt Top Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/Grass Skirt Top Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Grass Skirt Top Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/Grass Skirt Top Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Hide Vest Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/Hide Vest Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Hide Vest Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/Hide Vest Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Hoodie Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Hoodie Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Jump Suit Blue Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Jump Suit Blue Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Jump Suit Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Jump Suit Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Longsleeve T-Shirt Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Longsleeve T-Shirt Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Lumberjack Hoodie Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Lumberjack Hoodie Female.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Shirt Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/Shirt Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Shirt Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/Shirt Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "T-Shirt Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/T-Shirt Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "T-Shirt Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/T-Shirt Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Tank Top Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/Tank Top Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Tank Top Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/Tank Top Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Torso Female Dark",
+    "mesh_names": [],
+    "file": "Female/Chest/Torso Female Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Torso Female Light",
+    "mesh_names": [],
+    "file": "Female/Chest/Torso Female Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Female",
+    "object_name": "Wetsuit Female",
+    "mesh_names": [],
+    "file": "Female/Chest/Wetsuit Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Bone Armour Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Bone Armour Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Coco Knight Torso Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Coco Knight Torso Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Hide Halter Neck Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Hide Halter Neck Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Jacket Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Jacket Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Metal Chestplate Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Metal Chestplate Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Metal Chestplate Ice Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Metal Chestplate Ice Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Roadsign Jacket Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Roadsign Jacket Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Skin Cloth Sash Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Skin Cloth Sash Female.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Female",
+    "object_name": "Wood Armor Jacket Female",
+    "mesh_names": [],
+    "file": "Female/Chest Armor/Wood Armor Jacket Female.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Burlap Shoes Female Dark",
+    "mesh_names": [],
+    "file": "Female/Feet/Burlap Shoes Female Dark.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Burlap Shoes Female Light",
+    "mesh_names": [],
+    "file": "Female/Feet/Burlap Shoes Female Light.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Diving Fins Female Dark",
+    "mesh_names": [],
+    "file": "Female/Feet/Diving Fins Female Dark.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Diving Fins Female Light",
+    "mesh_names": [],
+    "file": "Female/Feet/Diving Fins Female Light.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Feet Female Dark",
+    "mesh_names": [],
+    "file": "Female/Feet/Feet Female Dark.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Feet Female Light",
+    "mesh_names": [],
+    "file": "Female/Feet/Feet Female Light.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Female",
+    "object_name": "Hide Boots Female",
+    "mesh_names": [],
+    "file": "Female/Feet/Hide Boots Female.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Female",
+    "object_name": "Ninja Suit Female Dark",
+    "mesh_names": [],
+    "file": "Female/Full Body/Ninja Suit Female Dark.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Female",
+    "object_name": "Ninja Suit Female Light",
+    "mesh_names": [],
+    "file": "Female/Full Body/Ninja Suit Female Light.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Buzzcut Curly Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Buzzcut Curly Female.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Buzzcut Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Buzzcut Female.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Crew Cut Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Crew Cut Female.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Hair Bun Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Hair Bun Female.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Mid Length Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Mid Length Female.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Pixie Cut Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Pixie Cut Female.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Female",
+    "object_name": "Ponytail Female",
+    "mesh_names": [],
+    "file": "Female/Hair/Ponytail Female.blend"
+  },
+  {
+    "category": "Hand Armor",
+    "group": "Female",
+    "object_name": "Coco Knight Gloves Female",
+    "mesh_names": [],
+    "file": "Female/Hand Armor/Coco Knight Gloves Female.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Burlap Gloves Female Dark",
+    "mesh_names": [],
+    "file": "Female/Hands/Burlap Gloves Female Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Burlap Gloves Female Light",
+    "mesh_names": [],
+    "file": "Female/Hands/Burlap Gloves Female Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Hands Female Dark",
+    "mesh_names": [],
+    "file": "Female/Hands/Hands Female Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Hands Female Light",
+    "mesh_names": [],
+    "file": "Female/Hands/Hands Female Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Leather Gloves Female Dark",
+    "mesh_names": [],
+    "file": "Female/Hands/Leather Gloves Female Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Leather Gloves Female Light",
+    "mesh_names": [],
+    "file": "Female/Hands/Leather Gloves Female Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Road Sign Gloves Female Dark",
+    "mesh_names": [],
+    "file": "Female/Hands/Road Sign Gloves Female Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Road Sign Gloves Female Light",
+    "mesh_names": [],
+    "file": "Female/Hands/Road Sign Gloves Female Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Wood Armor Gloves Female Dark",
+    "mesh_names": [],
+    "file": "Female/Hands/Wood Armor Gloves Female Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Female",
+    "object_name": "Wood Armor Gloves Female Light",
+    "mesh_names": [],
+    "file": "Female/Hands/Wood Armor Gloves Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Amy Female Dark",
+    "mesh_names": [],
+    "file": "Female/Head/Amy Female Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Barbara Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Barbara Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Clem Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Clem Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Daisy Female Dark",
+    "mesh_names": [],
+    "file": "Female/Head/Daisy Female Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Emma Female Dark",
+    "mesh_names": [],
+    "file": "Female/Head/Emma Female Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Fiona Female Dark",
+    "mesh_names": [],
+    "file": "Female/Head/Fiona Female Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Grace Female Dark",
+    "mesh_names": [],
+    "file": "Female/Head/Grace Female Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Hazel Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Hazel Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Imogen Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Imogen Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Jessica Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Jessica Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Karen Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Karen Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Lucia Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Lucia Female Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Female",
+    "object_name": "Margaret Female Light",
+    "mesh_names": [],
+    "file": "Female/Head/Margaret Female Light.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Female",
+    "object_name": "Ballistic Helmet Female",
+    "mesh_names": [],
+    "file": "Female/Head Armor/Ballistic Helmet Female.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Female",
+    "object_name": "Ghost Sheet Female",
+    "mesh_names": [],
+    "file": "Female/Head Armor/Ghost Sheet Female.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Female",
+    "object_name": "Knights Helmet Female",
+    "mesh_names": [],
+    "file": "Female/Head Armor/Knights Helmet Female.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Female",
+    "object_name": "Prisoner Hood Female",
+    "mesh_names": [],
+    "file": "Female/Head Armor/Prisoner Hood Female.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Female",
+    "object_name": "Silly Horse Mask Female",
+    "mesh_names": [],
+    "file": "Female/Head Armor/Silly Horse Mask Female.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Female",
+    "object_name": "Ballistic Leg Armor Female",
+    "mesh_names": [],
+    "file": "Female/Leg Armor/Ballistic Leg Armor Female.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Female",
+    "object_name": "Coco Knight Pants Female",
+    "mesh_names": [],
+    "file": "Female/Leg Armor/Coco Knight Pants Female.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Female",
+    "object_name": "Hide Skirt Female",
+    "mesh_names": [],
+    "file": "Female/Leg Armor/Hide Skirt Female.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Female",
+    "object_name": "Underwear Female",
+    "mesh_names": [],
+    "file": "Female/Leg Armor/Underwear Female.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Female",
+    "object_name": "Wood Armor Pants Female",
+    "mesh_names": [],
+    "file": "Female/Leg Armor/Wood Armor Pants Female.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "BDU Pants Female",
+    "mesh_names": [],
+    "file": "Female/Legs/BDU Pants Female.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Burlap Pants Female",
+    "mesh_names": [],
+    "file": "Female/Legs/Burlap Pants Female.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Coconut Bottoms Female Dark",
+    "mesh_names": [],
+    "file": "Female/Legs/Coconut Bottoms Female Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Coconut Bottoms Female Light",
+    "mesh_names": [],
+    "file": "Female/Legs/Coconut Bottoms Female Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Grass Skirt Bottoms Female Dark",
+    "mesh_names": [],
+    "file": "Female/Legs/Grass Skirt Bottoms Female Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Grass Skirt Bottoms Female Light",
+    "mesh_names": [],
+    "file": "Female/Legs/Grass Skirt Bottoms Female Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Hide Pants Female Dark",
+    "mesh_names": [],
+    "file": "Female/Legs/Hide Pants Female Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Hide Pants Female Light",
+    "mesh_names": [],
+    "file": "Female/Legs/Hide Pants Female Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Legs Female Dark",
+    "mesh_names": [],
+    "file": "Female/Legs/Legs Female Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Legs Female Light",
+    "mesh_names": [],
+    "file": "Female/Legs/Legs Female Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Pants Female",
+    "mesh_names": [],
+    "file": "Female/Legs/Pants Female.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Shorts Female Dark",
+    "mesh_names": [],
+    "file": "Female/Legs/Shorts Female Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Female",
+    "object_name": "Shorts Female Light",
+    "mesh_names": [],
+    "file": "Female/Legs/Shorts Female Light.blend"
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "AK",
+    "mesh_names": [],
+    "file": "Items/Weapons/AK.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98931,
+        -0.07548,
+        0.10608,
+        0.0657
+      ],
+      "r_index2": [
+        0.99488,
+        -0.10104,
+        -0.0,
+        -0.0
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.93208,
+        -0.29171,
+        0.21412,
+        0.01719
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96374,
+        -0.26684,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.95888,
+        -0.26883,
+        0.02456,
+        0.08761
+      ],
+      "r_ring2": [
+        0.99284,
+        -0.08845,
+        0.02862,
+        0.07503
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99683,
+        0.0,
+        -0.0,
+        0.0795
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Bolt",
+    "mesh_names": [],
+    "file": "Items/Weapons/Bolt.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98491,
+        -0.0702,
+        0.10965,
+        0.11401
+      ],
+      "r_index2": [
+        0.99261,
+        -0.10081,
+        0.00683,
+        0.06724
+      ],
+      "r_index3": [
+        0.92088,
+        -0.3454,
+        -0.17913,
+        0.02427
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.93208,
+        -0.29171,
+        0.21412,
+        0.01719
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.94677,
+        -0.26214,
+        0.18006,
+        -0.04985
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.96217,
+        -0.26976,
+        0.01032,
+        0.03681
+      ],
+      "r_ring2": [
+        0.99284,
+        -0.08845,
+        0.02862,
+        0.07503
+      ],
+      "r_ring3": [
+        0.95574,
+        -0.23313,
+        0.17437,
+        -0.04253
+      ],
+      "r_pinky_meta": [
+        0.99508,
+        -0.0,
+        -0.0,
+        0.09909
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little2": [
+        0.99195,
+        0.12209,
+        0.0041,
+        0.03331
+      ],
+      "r_little3": [
+        0.9466,
+        -0.25973,
+        0.19038,
+        -0.01546
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Custom SMG",
+    "mesh_names": [],
+    "file": "Items/Weapons/Custom SMG.blend",
+    "grip": {
+      "r_index_meta": [
+        0.98924,
+        -0.10999,
+        0.00758,
+        -0.0962
+      ],
+      "r_index1": [
+        0.98782,
+        -0.07338,
+        0.10755,
+        0.08519
+      ],
+      "r_index2": [
+        0.98785,
+        -0.15459,
+        0.01597,
+        -0.00056
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99795,
+        -0.02141,
+        0.01407,
+        -0.05872
+      ],
+      "r_middle1": [
+        0.92472,
+        -0.38038,
+        0.01393,
+        -0.00283
+      ],
+      "r_middle2": [
+        0.98789,
+        -0.15514,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96482,
+        -0.26291,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99718,
+        -0.07467,
+        -0.0006,
+        0.00796
+      ],
+      "r_little1": [
+        0.99738,
+        -0.0382,
+        -0.0612,
+        -0.00455
+      ],
+      "r_little2": [
+        0.99736,
+        0.07266,
+        -0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99211,
+        -0.07738,
+        0.02351,
+        -0.09579
+      ],
+      "r_ring1": [
+        0.95831,
+        -0.1975,
+        -0.12254,
+        0.16621
+      ],
+      "r_ring2": [
+        0.99441,
+        -0.09224,
+        0.01873,
+        0.04783
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.99366,
+        -0.03636,
+        0.00559,
+        -0.10619
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Double Barrel",
+    "mesh_names": [],
+    "file": "Items/Weapons/Double Barrel.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98835,
+        -0.07407,
+        0.10707,
+        0.07881
+      ],
+      "r_index2": [
+        0.99261,
+        -0.10081,
+        0.00683,
+        0.06724
+      ],
+      "r_index3": [
+        0.92088,
+        -0.3454,
+        -0.17913,
+        0.02427
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.92561,
+        -0.31834,
+        0.17203,
+        -0.11096
+      ],
+      "r_middle2": [
+        0.96289,
+        -0.21447,
+        -0.16273,
+        0.01909
+      ],
+      "r_middle3": [
+        0.94677,
+        -0.26214,
+        0.18006,
+        -0.04985
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.96217,
+        -0.26976,
+        0.01032,
+        0.03681
+      ],
+      "r_ring2": [
+        0.99284,
+        -0.08845,
+        0.02862,
+        0.07503
+      ],
+      "r_ring3": [
+        0.95574,
+        -0.23313,
+        0.17437,
+        -0.04253
+      ],
+      "r_pinky_meta": [
+        0.99825,
+        -0.0,
+        -0.0,
+        0.05922
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little2": [
+        0.99195,
+        0.12209,
+        0.0041,
+        0.03331
+      ],
+      "r_little3": [
+        0.9466,
+        -0.25973,
+        0.19038,
+        -0.01546
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Eoka",
+    "mesh_names": [],
+    "file": "Items/Weapons/Eoka.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.93353,
+        -0.29739,
+        0.19587,
+        -0.0414
+      ],
+      "r_index2": [
+        0.92394,
+        -0.38147,
+        0.0283,
+        -0.00459
+      ],
+      "r_index3": [
+        0.92088,
+        -0.3454,
+        -0.17913,
+        0.02427
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.89145,
+        -0.40423,
+        0.18173,
+        -0.09423
+      ],
+      "r_middle2": [
+        0.96289,
+        -0.21447,
+        -0.16273,
+        0.01909
+      ],
+      "r_middle3": [
+        0.94677,
+        -0.26214,
+        0.18006,
+        -0.04985
+      ],
+      "r_ring_meta": [
+        0.99702,
+        -0.07046,
+        -0.00222,
+        0.03148
+      ],
+      "r_ring1": [
+        0.96217,
+        -0.26976,
+        0.01032,
+        0.03681
+      ],
+      "r_ring2": [
+        0.99284,
+        -0.08845,
+        0.02862,
+        0.07503
+      ],
+      "r_ring3": [
+        0.95574,
+        -0.23313,
+        0.17437,
+        -0.04253
+      ],
+      "r_pinky_meta": [
+        0.99732,
+        -0.04303,
+        -0.00255,
+        0.05916
+      ],
+      "r_little1": [
+        0.97392,
+        -0.21519,
+        0.00849,
+        0.07142
+      ],
+      "r_little2": [
+        0.97935,
+        0.19936,
+        0.00669,
+        0.03288
+      ],
+      "r_little3": [
+        0.9466,
+        -0.25973,
+        0.19038,
+        -0.01546
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Glock",
+    "mesh_names": [],
+    "file": "Items/Weapons/Glock.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99894,
+        -0.00558,
+        -0.02001,
+        0.04113
+      ],
+      "r_index1": [
+        0.97877,
+        -0.16261,
+        0.09986,
+        0.07481
+      ],
+      "r_index2": [
+        0.99832,
+        0.0579,
+        0.0,
+        0.0
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99954,
+        -0.0,
+        -0.0,
+        -0.03033
+      ],
+      "r_middle1": [
+        0.90938,
+        -0.39657,
+        0.10996,
+        0.06054
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.89906,
+        -0.43783,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99671,
+        -0.0811,
+        -0.0,
+        0.0
+      ],
+      "r_ring1": [
+        0.95382,
+        -0.26742,
+        0.03692,
+        0.13169
+      ],
+      "r_ring2": [
+        0.93464,
+        -0.34641,
+        0.00788,
+        0.07991
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99886,
+        0.0,
+        -0.0,
+        0.04783
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little3": [
+        0.95661,
+        -0.29138,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Grenade Launcher",
+    "mesh_names": [],
+    "file": "Items/Weapons/Grenade Launcher.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99768,
+        -0.04635,
+        -0.00231,
+        0.04972
+      ],
+      "r_thumb2": [
+        0.91325,
+        0.1052,
+        -0.35009,
+        -0.17983
+      ],
+      "r_thumb3": [
+        0.94628,
+        -0.32334,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99894,
+        -0.00558,
+        -0.02001,
+        0.04113
+      ],
+      "r_index1": [
+        0.97877,
+        -0.16261,
+        0.09986,
+        0.07481
+      ],
+      "r_index2": [
+        0.99832,
+        0.0579,
+        0.0,
+        0.0
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.98622,
+        -0.15501,
+        0.04489,
+        -0.03629
+      ],
+      "r_middle1": [
+        0.86229,
+        -0.49062,
+        0.10294,
+        0.07184
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96,
+        -0.27999,
+        -0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99182,
+        -0.12458,
+        -0.00103,
+        -0.02763
+      ],
+      "r_ring1": [
+        0.9007,
+        -0.41235,
+        0.01601,
+        0.13583
+      ],
+      "r_ring2": [
+        0.996,
+        0.03931,
+        0.03798,
+        0.07075
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.98582,
+        -0.16086,
+        -0.0077,
+        0.0472
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little2": [
+        0.99785,
+        0.05021,
+        0.01537,
+        -0.03919
+      ],
+      "r_little3": [
+        0.98818,
+        -0.15333,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "HMLMG",
+    "mesh_names": [],
+    "file": "Items/Weapons/HMLMG.blend",
+    "grip": {
+      "r_thumb1": [
+        0.81782,
+        -0.16706,
+        -0.55069,
+        -0.00171
+      ],
+      "r_index1": [
+        0.99191,
+        -0.02353,
+        0.10938,
+        0.06005
+      ],
+      "r_index2": [
+        0.92252,
+        -0.37041,
+        0.1036,
+        0.03185
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99884,
+        -0.0,
+        0.0,
+        0.04819
+      ],
+      "r_middle1": [
+        0.89989,
+        -0.41933,
+        0.05062,
+        0.10863
+      ],
+      "r_middle2": [
+        0.93927,
+        -0.34317,
+        0.0,
+        0.0
+      ],
+      "r_middle3": [
+        0.97013,
+        -0.24257,
+        -0.0,
+        0.0
+      ],
+      "r_ring_meta": [
+        0.99377,
+        -0.05392,
+        -0.00292,
+        0.09751
+      ],
+      "r_ring1": [
+        0.95795,
+        -0.26527,
+        -0.01489,
+        0.10835
+      ],
+      "r_ring2": [
+        0.9159,
+        -0.3933,
+        0.00382,
+        0.08021
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99829,
+        -0.0,
+        0.0,
+        0.05852
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "High Caliber Revolver",
+    "mesh_names": [],
+    "file": "Items/Weapons/High Caliber Revolver.blend",
+    "grip": {
+      "r_thumb1": [
+        0.98101,
+        0.0,
+        -0.0,
+        -0.19395
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99913,
+        -0.03596,
+        -0.02058,
+        -0.00396
+      ],
+      "r_index1": [
+        0.97877,
+        -0.16261,
+        0.09986,
+        0.07481
+      ],
+      "r_index2": [
+        0.99466,
+        0.05769,
+        -0.00496,
+        0.08545
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99954,
+        -0.0,
+        -0.0,
+        -0.03033
+      ],
+      "r_middle1": [
+        0.88504,
+        -0.45557,
+        0.09159,
+        0.02768
+      ],
+      "r_middle2": [
+        0.92527,
+        -0.3793,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.95618,
+        -0.29278,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99671,
+        -0.0811,
+        -0.0,
+        0.0
+      ],
+      "r_ring1": [
+        0.95382,
+        -0.26742,
+        0.03692,
+        0.13169
+      ],
+      "r_ring2": [
+        0.93464,
+        -0.34641,
+        0.00788,
+        0.07991
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99886,
+        0.0,
+        -0.0,
+        0.04783
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little2": [
+        0.96619,
+        -0.25782,
+        -0.0,
+        -0.0
+      ],
+      "r_little3": [
+        0.95661,
+        -0.29138,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "L96",
+    "mesh_names": [],
+    "file": "Items/Weapons/L96.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98001,
+        -0.06609,
+        0.11217,
+        0.15041
+      ],
+      "r_index2": [
+        0.99277,
+        -0.12003,
+        -0.0,
+        -0.0
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.87089,
+        -0.47841,
+        0.11222,
+        0.00856
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96374,
+        -0.26684,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.91642,
+        -0.38975,
+        0.01311,
+        0.09004
+      ],
+      "r_ring2": [
+        0.99284,
+        -0.08845,
+        0.02862,
+        0.07503
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99683,
+        0.0,
+        -0.0,
+        0.0795
+      ],
+      "r_little1": [
+        0.97762,
+        -0.19768,
+        0.00977,
+        0.07125
+      ],
+      "r_little3": [
+        0.99783,
+        -0.06577,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "LR",
+    "mesh_names": [],
+    "file": "Items/Weapons/LR.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98001,
+        -0.06609,
+        0.11217,
+        0.15041
+      ],
+      "r_index2": [
+        0.97465,
+        -0.22375,
+        0.0,
+        -0.0
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.91312,
+        -0.39184,
+        0.11252,
+        -0.00235
+      ],
+      "r_middle2": [
+        0.94944,
+        -0.31394,
+        0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96374,
+        -0.26684,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.91642,
+        -0.38975,
+        0.01311,
+        0.09004
+      ],
+      "r_ring2": [
+        0.9967,
+        -0.01188,
+        0.0343,
+        0.07261
+      ],
+      "r_ring3": [
+        0.88157,
+        -0.47206,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99683,
+        0.0,
+        -0.0,
+        0.0795
+      ],
+      "r_little1": [
+        0.97762,
+        -0.19768,
+        0.00977,
+        0.07125
+      ],
+      "r_little3": [
+        0.97895,
+        -0.20408,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "M249",
+    "mesh_names": [],
+    "file": "Items/Weapons/M249.blend",
+    "grip": {
+      "r_thumb1": [
+        0.98579,
+        0.0,
+        -0.0,
+        -0.16797
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99967,
+        -0.00672,
+        -0.02026,
+        -0.0146
+      ],
+      "r_index1": [
+        0.98398,
+        -0.12732,
+        0.10249,
+        0.07118
+      ],
+      "r_index2": [
+        0.98751,
+        -0.15755,
+        -0.0,
+        0.0
+      ],
+      "r_index3": [
+        0.95041,
+        -0.31099,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99931,
+        -0.03706,
+        0.00091,
+        -0.00059
+      ],
+      "r_middle1": [
+        0.88677,
+        -0.44483,
+        0.10655,
+        0.06636
+      ],
+      "r_middle2": [
+        0.94021,
+        -0.34061,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.98629,
+        -0.165,
+        -0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99658,
+        -0.0811,
+        0.00127,
+        0.01558
+      ],
+      "r_ring1": [
+        0.92021,
+        -0.36676,
+        0.02279,
+        0.13486
+      ],
+      "r_ring2": [
+        0.93464,
+        -0.34641,
+        0.00788,
+        0.07991
+      ],
+      "r_ring3": [
+        0.99984,
+        -0.01811,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99429,
+        -0.07623,
+        -0.0057,
+        0.0744
+      ],
+      "r_little1": [
+        0.92734,
+        -0.36723,
+        -0.00297,
+        0.07186
+      ],
+      "r_little2": [
+        0.99077,
+        -0.13555,
+        0.0,
+        -0.0
+      ],
+      "r_little3": [
+        0.9789,
+        -0.20434,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "M39",
+    "mesh_names": [],
+    "file": "Items/Weapons/M39.blend",
+    "grip": {
+      "r_thumb1": [
+        0.98302,
+        0.0,
+        -0.0,
+        -0.1835
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99971,
+        -0.00647,
+        0.00019,
+        -0.02336
+      ],
+      "r_index1": [
+        0.97762,
+        -0.08292,
+        0.19266,
+        0.01634
+      ],
+      "r_index3": [
+        0.95816,
+        -0.28622,
+        -0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99893,
+        -0.04558,
+        -0.00037,
+        0.00807
+      ],
+      "r_middle1": [
+        0.87645,
+        -0.46815,
+        0.11231,
+        0.00724
+      ],
+      "r_middle2": [
+        0.94944,
+        -0.31394,
+        0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.98368,
+        -0.17991,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.8433,
+        -0.53195,
+        0.03603,
+        0.06762
+      ],
+      "r_ring2": [
+        0.9967,
+        -0.01188,
+        0.0343,
+        0.07261
+      ],
+      "r_ring3": [
+        0.88005,
+        -0.47125,
+        0.0277,
+        0.05174
+      ],
+      "r_pinky_meta": [
+        0.99683,
+        0.0,
+        -0.0,
+        0.0795
+      ],
+      "r_little1": [
+        0.87884,
+        -0.47167,
+        -0.01123,
+        0.07104
+      ],
+      "r_little2": [
+        0.99994,
+        -0.01123,
+        0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.97895,
+        -0.20408,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "M4 Shotgun",
+    "mesh_names": [],
+    "file": "Items/Weapons/M4 Shotgun.blend",
+    "grip": {
+      "r_thumb1": [
+        0.98302,
+        0.0,
+        -0.0,
+        -0.1835
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99809,
+        -0.00647,
+        -6e-05,
+        -0.06145
+      ],
+      "r_index1": [
+        0.98001,
+        -0.06609,
+        0.11217,
+        0.15041
+      ],
+      "r_index2": [
+        0.96931,
+        -0.24586,
+        0.0,
+        -0.0
+      ],
+      "r_index3": [
+        0.93214,
+        -0.36211,
+        -0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99997,
+        -0.0,
+        0.0,
+        0.00808
+      ],
+      "r_middle1": [
+        0.87645,
+        -0.46815,
+        0.11231,
+        0.00724
+      ],
+      "r_middle2": [
+        0.94944,
+        -0.31394,
+        0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.98368,
+        -0.17991,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.9995,
+        -0.0,
+        0.0,
+        0.03155
+      ],
+      "r_ring1": [
+        0.8433,
+        -0.53195,
+        0.03603,
+        0.06762
+      ],
+      "r_ring2": [
+        0.9967,
+        -0.01188,
+        0.0343,
+        0.07261
+      ],
+      "r_ring3": [
+        0.88005,
+        -0.47125,
+        0.0277,
+        0.05174
+      ],
+      "r_pinky_meta": [
+        0.99683,
+        0.0,
+        -0.0,
+        0.0795
+      ],
+      "r_little1": [
+        0.87884,
+        -0.47167,
+        -0.01123,
+        0.07104
+      ],
+      "r_little2": [
+        0.99994,
+        -0.01123,
+        0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.97895,
+        -0.20408,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "M92",
+    "mesh_names": [],
+    "file": "Items/Weapons/M92.blend",
+    "grip": {
+      "r_thumb1": [
+        0.98579,
+        0.0,
+        -0.0,
+        -0.16797
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99894,
+        -0.00558,
+        -0.02001,
+        0.04113
+      ],
+      "r_index1": [
+        0.97877,
+        -0.16261,
+        0.09986,
+        0.07481
+      ],
+      "r_index2": [
+        0.99832,
+        0.0579,
+        0.0,
+        0.0
+      ],
+      "r_index3": [
+        0.95041,
+        -0.31099,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99992,
+        -0.0,
+        -0.0,
+        -0.01256
+      ],
+      "r_middle1": [
+        0.88677,
+        -0.44483,
+        0.10655,
+        0.06636
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.95722,
+        -0.28936,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99658,
+        -0.0811,
+        0.00127,
+        0.01558
+      ],
+      "r_ring1": [
+        0.95382,
+        -0.26742,
+        0.03692,
+        0.13169
+      ],
+      "r_ring2": [
+        0.93464,
+        -0.34641,
+        0.00788,
+        0.07991
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99721,
+        0.0,
+        -0.0,
+        0.07461
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little3": [
+        0.95661,
+        -0.29138,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "MP5",
+    "mesh_names": [],
+    "file": "Items/Weapons/MP5.blend",
+    "grip": {
+      "r_thumb1": [
+        0.99929,
+        -0.03564,
+        0.00912,
+        -0.00845
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ],
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98931,
+        -0.07548,
+        0.10608,
+        0.0657
+      ],
+      "r_index2": [
+        0.98993,
+        -0.14066,
+        0.01596,
+        -0.00078
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.98908,
+        -0.13445,
+        0.02064,
+        -0.05674
+      ],
+      "r_middle1": [
+        0.95707,
+        -0.28951,
+        0.01359,
+        -0.00416
+      ],
+      "r_middle2": [
+        0.907,
+        -0.42112,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96374,
+        -0.26684,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99023,
+        -0.0986,
+        0.02555,
+        -0.09526
+      ],
+      "r_ring1": [
+        0.95416,
+        -0.25189,
+        -0.08316,
+        0.13857
+      ],
+      "r_ring2": [
+        0.97556,
+        -0.21363,
+        0.01272,
+        0.04977
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99869,
+        -0.05062,
+        -0.0004,
+        0.00797
+      ],
+      "r_little1": [
+        0.99657,
+        -0.041,
+        0.02088,
+        0.06882
+      ],
+      "r_little2": [
+        0.99834,
+        0.05761,
+        -0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Pump Shotgun",
+    "mesh_names": [],
+    "file": "Items/Weapons/Pump Shotgun.blend",
+    "grip": {
+      "r_index_meta": [
+        0.99514,
+        -0.05026,
+        0.00139,
+        -0.08471
+      ],
+      "r_index1": [
+        0.9691,
+        -0.12787,
+        0.10994,
+        0.18004
+      ],
+      "r_index2": [
+        0.97171,
+        -0.22631,
+        -0.00178,
+        0.06757
+      ],
+      "r_index3": [
+        0.93783,
+        -0.2963,
+        -0.1776,
+        0.0337
+      ],
+      "r_middle_meta": [
+        0.9799,
+        -0.1458,
+        0.01024,
+        -0.13576
+      ],
+      "r_middle1": [
+        0.90363,
+        -0.37055,
+        0.21185,
+        0.03549
+      ],
+      "r_middle2": [
+        0.94387,
+        -0.31537,
+        -0.00932,
+        -0.09784
+      ],
+      "r_middle3": [
+        0.90309,
+        -0.38669,
+        0.18511,
+        -0.02527
+      ],
+      "r_pinky_meta": [
+        0.99625,
+        -0.07854,
+        0.00286,
+        -0.03625
+      ],
+      "r_little1": [
+        0.98425,
+        -0.1615,
+        0.01239,
+        0.07084
+      ],
+      "r_little2": [
+        0.99195,
+        0.12209,
+        0.0041,
+        0.03331
+      ],
+      "r_little3": [
+        0.97043,
+        -0.14755,
+        0.18728,
+        -0.03756
+      ],
+      "r_ring_meta": [
+        0.99366,
+        -0.07833,
+        0.00634,
+        -0.08044
+      ],
+      "r_ring1": [
+        0.96217,
+        -0.26976,
+        0.01032,
+        0.03681
+      ],
+      "r_ring2": [
+        0.99645,
+        -0.02543,
+        0.03331,
+        0.07307
+      ],
+      "r_ring3": [
+        0.95574,
+        -0.23313,
+        0.17437,
+        -0.04253
+      ],
+      "r_thumb1": [
+        0.99163,
+        0.0,
+        -0.0,
+        -0.12913
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Python",
+    "mesh_names": [],
+    "file": "Items/Weapons/Python.blend",
+    "grip": {
+      "r_thumb1": [
+        0.90086,
+        -0.29168,
+        -0.31748,
+        -0.0508
+      ],
+      "r_thumb2": [
+        0.99912,
+        0.00845,
+        -0.03281,
+        -0.02466
+      ],
+      "r_thumb3": [
+        0.91801,
+        -0.36113,
+        -0.16343,
+        -0.01149
+      ],
+      "r_index_meta": [
+        0.97742,
+        -0.06311,
+        0.19724,
+        -0.04198
+      ],
+      "r_index1": [
+        0.98754,
+        0.09111,
+        0.00276,
+        -0.12829
+      ],
+      "r_index2": [
+        0.93228,
+        -0.36168,
+        -0.00693,
+        0.00094
+      ],
+      "r_index3": [
+        0.94907,
+        -0.29179,
+        0.10845,
+        -0.04859
+      ],
+      "r_middle_meta": [
+        0.99754,
+        -0.00695,
+        0.04874,
+        -0.04989
+      ],
+      "r_middle1": [
+        0.83489,
+        -0.53904,
+        -0.08914,
+        -0.06669
+      ],
+      "r_middle2": [
+        0.95633,
+        -0.2896,
+        -0.00218,
+        -0.03957
+      ],
+      "r_middle3": [
+        0.99442,
+        -0.10455,
+        0.01348,
+        -0.00511
+      ],
+      "r_ring_meta": [
+        0.99839,
+        0.02449,
+        0.04462,
+        -0.02499
+      ],
+      "r_ring1": [
+        0.84238,
+        -0.52431,
+        -0.09965,
+        -0.07466
+      ],
+      "r_ring2": [
+        0.98153,
+        -0.1867,
+        -0.0105,
+        -0.04039
+      ],
+      "r_ring3": [
+        0.99997,
+        0.00282,
+        -0.00078,
+        -0.00764
+      ],
+      "r_pinky_meta": [
+        0.99546,
+        0.0309,
+        -0.08567,
+        0.02751
+      ],
+      "r_little1": [
+        0.90894,
+        -0.38304,
+        -0.1536,
+        0.05926
+      ],
+      "r_little2": [
+        0.99004,
+        -0.06673,
+        0.12357,
+        0.01006
+      ],
+      "r_little3": [
+        0.99914,
+        -0.01402,
+        -0.00982,
+        -0.03773
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Revolver",
+    "mesh_names": [],
+    "file": "Items/Weapons/Revolver.blend",
+    "grip": {
+      "r_thumb1": [
+        0.91979,
+        -0.22498,
+        -0.32035,
+        -0.02743
+      ],
+      "r_thumb2": [
+        0.99912,
+        0.00845,
+        -0.03281,
+        -0.02466
+      ],
+      "r_thumb3": [
+        0.93748,
+        -0.30707,
+        -0.16382,
+        -0.00195
+      ],
+      "r_index_meta": [
+        0.97742,
+        -0.06311,
+        0.19724,
+        -0.04198
+      ],
+      "r_index1": [
+        0.9917,
+        -0.00796,
+        0.01556,
+        -0.12737
+      ],
+      "r_index2": [
+        0.93228,
+        -0.36168,
+        -0.00693,
+        0.00094
+      ],
+      "r_index3": [
+        0.94907,
+        -0.29179,
+        0.10845,
+        -0.04859
+      ],
+      "r_middle_meta": [
+        0.99223,
+        -0.01009,
+        0.04819,
+        -0.1143
+      ],
+      "r_middle1": [
+        0.89284,
+        -0.43639,
+        -0.09641,
+        -0.05567
+      ],
+      "r_middle2": [
+        0.95633,
+        -0.2896,
+        -0.00218,
+        -0.03957
+      ],
+      "r_middle3": [
+        0.99442,
+        -0.10455,
+        0.01348,
+        -0.00511
+      ],
+      "r_ring_meta": [
+        0.99658,
+        0.02268,
+        0.04557,
+        -0.06511
+      ],
+      "r_ring1": [
+        0.87973,
+        -0.45888,
+        -0.10503,
+        -0.06688
+      ],
+      "r_ring2": [
+        0.99127,
+        -0.12506,
+        -0.013,
+        -0.03966
+      ],
+      "r_ring3": [
+        0.99997,
+        0.00282,
+        -0.00078,
+        -0.00764
+      ],
+      "r_pinky_meta": [
+        0.9949,
+        0.04559,
+        -0.08525,
+        0.02877
+      ],
+      "r_little1": [
+        0.94199,
+        -0.29247,
+        -0.14708,
+        0.07397
+      ],
+      "r_little2": [
+        0.99004,
+        -0.06673,
+        0.12357,
+        0.01006
+      ],
+      "r_little3": [
+        0.99914,
+        -0.01402,
+        -0.00982,
+        -0.03773
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "SKS",
+    "mesh_names": [],
+    "file": "Items/Weapons/SKS.blend",
+    "grip": {
+      "r_index_meta": [
+        0.98924,
+        -0.10999,
+        0.00758,
+        -0.0962
+      ],
+      "r_index1": [
+        0.98782,
+        -0.07338,
+        0.10755,
+        0.08519
+      ],
+      "r_index2": [
+        0.98039,
+        -0.19643,
+        0.01598,
+        0.00012
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.98908,
+        -0.13445,
+        0.02064,
+        -0.05674
+      ],
+      "r_middle1": [
+        0.86709,
+        -0.49795,
+        0.01418,
+        -0.00098
+      ],
+      "r_middle2": [
+        0.907,
+        -0.42112,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.99758,
+        -0.06956,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99869,
+        -0.05062,
+        -0.0004,
+        0.00797
+      ],
+      "r_little1": [
+        0.9037,
+        -0.42374,
+        -0.05459,
+        -0.02803
+      ],
+      "r_little2": [
+        0.99227,
+        -0.12408,
+        -0.0,
+        -0.0
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99023,
+        -0.0986,
+        0.02555,
+        -0.09526
+      ],
+      "r_ring1": [
+        0.82204,
+        -0.53828,
+        -0.10162,
+        0.15552
+      ],
+      "r_ring2": [
+        0.97556,
+        -0.21363,
+        0.01272,
+        0.04977
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.99366,
+        -0.03636,
+        0.00559,
+        -0.10619
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Semi Pistol",
+    "mesh_names": [],
+    "file": "Items/Weapons/Semi Pistol.blend",
+    "grip": {
+      "r_index_meta": [
+        0.99997,
+        -0.00441,
+        0.00508,
+        -0.00311
+      ],
+      "r_index1": [
+        0.97877,
+        -0.16261,
+        0.09986,
+        0.07481
+      ],
+      "r_index2": [
+        0.99489,
+        -0.10094,
+        -0.0,
+        0.0
+      ],
+      "r_index3": [
+        0.91603,
+        -0.40112,
+        -0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99947,
+        -0.0,
+        -0.0,
+        -0.03268
+      ],
+      "r_middle1": [
+        0.88677,
+        -0.44483,
+        0.10655,
+        0.06636
+      ],
+      "r_middle2": [
+        0.9783,
+        -0.20718,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.95722,
+        -0.28936,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99721,
+        0.0,
+        -0.0,
+        0.07461
+      ],
+      "r_little1": [
+        0.96172,
+        -0.26441,
+        0.00485,
+        0.07175
+      ],
+      "r_little2": [
+        0.99562,
+        -0.089,
+        -0.0278,
+        -0.0063
+      ],
+      "r_little3": [
+        0.95661,
+        -0.29138,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99658,
+        -0.0811,
+        0.00127,
+        0.01558
+      ],
+      "r_ring1": [
+        0.95382,
+        -0.26742,
+        0.03692,
+        0.13169
+      ],
+      "r_ring2": [
+        0.93464,
+        -0.34641,
+        0.00788,
+        0.07991
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.98579,
+        0.0,
+        -0.0,
+        -0.16797
+      ],
+      "r_thumb2": [
+        0.89539,
+        0.20826,
+        -0.36826,
+        -0.13889
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Semi Rifle",
+    "mesh_names": [],
+    "file": "Items/Weapons/Semi Rifle.blend",
+    "grip": {
+      "r_index_meta": [
+        0.99936,
+        -0.02453,
+        0.00064,
+        -0.02602
+      ],
+      "r_index1": [
+        0.98931,
+        -0.07548,
+        0.10608,
+        0.0657
+      ],
+      "r_index2": [
+        0.98993,
+        -0.14066,
+        0.01596,
+        -0.00078
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.9918,
+        -0.11697,
+        0.00307,
+        -0.05142
+      ],
+      "r_middle1": [
+        0.97071,
+        -0.24026,
+        -0.0,
+        -0.0
+      ],
+      "r_middle2": [
+        0.907,
+        -0.42112,
+        -0.0,
+        -0.0
+      ],
+      "r_middle3": [
+        0.96374,
+        -0.26684,
+        0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.99869,
+        -0.05062,
+        -0.0004,
+        0.00797
+      ],
+      "r_little1": [
+        0.99657,
+        -0.041,
+        0.02088,
+        0.06882
+      ],
+      "r_little2": [
+        0.99834,
+        0.05761,
+        -0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.99023,
+        -0.0986,
+        0.02555,
+        -0.09526
+      ],
+      "r_ring1": [
+        0.95888,
+        -0.26883,
+        0.02456,
+        0.08761
+      ],
+      "r_ring2": [
+        0.97371,
+        -0.21317,
+        0.01891,
+        0.07804
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.99929,
+        -0.03564,
+        0.00912,
+        -0.00845
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Spas12",
+    "mesh_names": [],
+    "file": "Items/Weapons/Spas12.blend",
+    "grip": {
+      "r_index_meta": [
+        0.99524,
+        -0.01353,
+        -0.00179,
+        -0.09648
+      ],
+      "r_index1": [
+        0.91549,
+        -0.29564,
+        0.27216,
+        0.0201
+      ],
+      "r_index2": [
+        0.98785,
+        -0.15459,
+        0.01597,
+        -0.00056
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99642,
+        -0.05915,
+        0.01628,
+        -0.05814
+      ],
+      "r_middle1": [
+        0.89527,
+        -0.44531,
+        0.0141,
+        -0.00183
+      ],
+      "r_middle2": [
+        0.97549,
+        -0.21042,
+        0.01356,
+        0.06286
+      ],
+      "r_middle3": [
+        0.96482,
+        -0.26291,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.98686,
+        -0.16139,
+        -0.00129,
+        0.00788
+      ],
+      "r_little1": [
+        0.98647,
+        -0.02727,
+        -0.08073,
+        0.14007
+      ],
+      "r_little2": [
+        0.98904,
+        -0.14767,
+        -0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.98764,
+        -0.14389,
+        0.03644,
+        -0.0503
+      ],
+      "r_ring1": [
+        0.93949,
+        -0.27335,
+        -0.13542,
+        0.1559
+      ],
+      "r_ring2": [
+        0.95736,
+        -0.25783,
+        0.03088,
+        0.12658
+      ],
+      "r_ring3": [
+        0.98193,
+        -0.18923,
+        -0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.99366,
+        -0.03636,
+        0.00559,
+        -0.10619
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Thompson",
+    "mesh_names": [],
+    "file": "Items/Weapons/Thompson.blend",
+    "grip": {
+      "r_index_meta": [
+        0.98924,
+        -0.10999,
+        0.00758,
+        -0.0962
+      ],
+      "r_index1": [
+        0.93974,
+        -0.00233,
+        0.34021,
+        0.03363
+      ],
+      "r_index2": [
+        0.98785,
+        -0.15459,
+        0.01597,
+        -0.00056
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99642,
+        -0.05915,
+        0.01628,
+        -0.05814
+      ],
+      "r_middle1": [
+        0.92472,
+        -0.38038,
+        0.01393,
+        -0.00283
+      ],
+      "r_middle2": [
+        0.97549,
+        -0.21042,
+        0.01356,
+        0.06286
+      ],
+      "r_middle3": [
+        0.96482,
+        -0.26291,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.98686,
+        -0.16139,
+        -0.00129,
+        0.00788
+      ],
+      "r_little1": [
+        0.9935,
+        -0.0959,
+        -0.06083,
+        -0.00808
+      ],
+      "r_little2": [
+        0.98904,
+        -0.14767,
+        -0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.98483,
+        -0.17354,
+        0.0,
+        -0.0
+      ],
+      "r_ring_meta": [
+        0.98445,
+        -0.14536,
+        0.03004,
+        -0.09395
+      ],
+      "r_ring1": [
+        0.93949,
+        -0.27335,
+        -0.13542,
+        0.1559
+      ],
+      "r_ring2": [
+        0.95736,
+        -0.25783,
+        0.03088,
+        0.12658
+      ],
+      "r_ring3": [
+        0.97151,
+        -0.23698,
+        0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.99366,
+        -0.03636,
+        0.00559,
+        -0.10619
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Weapons",
+    "group": "Items",
+    "object_name": "Tier 1 SMG",
+    "mesh_names": [],
+    "file": "Items/Weapons/Tier 1 SMG.blend",
+    "grip": {
+      "r_index_meta": [
+        0.99524,
+        -0.01353,
+        -0.00179,
+        -0.09648
+      ],
+      "r_index1": [
+        0.93216,
+        -0.19212,
+        0.29041,
+        0.09909
+      ],
+      "r_index2": [
+        0.99687,
+        0.07743,
+        0.01541,
+        -0.00423
+      ],
+      "r_index3": [
+        0.96971,
+        -0.24426,
+        0.0,
+        0.0
+      ],
+      "r_middle_meta": [
+        0.99642,
+        -0.05915,
+        0.01628,
+        -0.05814
+      ],
+      "r_middle1": [
+        0.93818,
+        -0.34047,
+        0.04441,
+        0.04395
+      ],
+      "r_middle2": [
+        0.97549,
+        -0.21042,
+        0.01356,
+        0.06286
+      ],
+      "r_middle3": [
+        0.96482,
+        -0.26291,
+        -0.0,
+        -0.0
+      ],
+      "r_pinky_meta": [
+        0.98686,
+        -0.16139,
+        -0.00129,
+        0.00788
+      ],
+      "r_little1": [
+        0.98647,
+        -0.02727,
+        -0.08073,
+        0.14007
+      ],
+      "r_little2": [
+        0.97571,
+        0.21905,
+        -0.0,
+        0.0
+      ],
+      "r_little3": [
+        0.98622,
+        -0.15394,
+        -0.05423,
+        0.02687
+      ],
+      "r_ring_meta": [
+        0.98764,
+        -0.14389,
+        0.03644,
+        -0.0503
+      ],
+      "r_ring1": [
+        0.96338,
+        -0.15376,
+        -0.16353,
+        0.14669
+      ],
+      "r_ring2": [
+        0.96906,
+        -0.04801,
+        0.21575,
+        0.10982
+      ],
+      "r_ring3": [
+        0.88851,
+        -0.45886,
+        -0.0,
+        -0.0
+      ],
+      "r_thumb1": [
+        0.98773,
+        0.00701,
+        -0.00487,
+        -0.15594
+      ],
+      "r_thumb2": [
+        0.90394,
+        0.16731,
+        -0.36156,
+        -0.1555
+      ],
+      "r_thumb3": [
+        0.9855,
+        -0.16968,
+        0.0,
+        -0.0
+      ]
+    }
+  },
+  {
+    "category": "Beard",
+    "group": "Male",
+    "object_name": "Mid Length Beard",
+    "mesh_names": [],
+    "file": "Male/Beard/Mid Length Beard.blend"
+  },
+  {
+    "category": "Beard",
+    "group": "Male",
+    "object_name": "Short Scruffy Beard",
+    "mesh_names": [],
+    "file": "Male/Beard/Short Scruffy Beard.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "BDU Shirt Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/BDU Shirt Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "BDU Shirt Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/BDU Shirt Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Burlap Shirt Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Burlap Shirt Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Coconut Top Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/Coconut Top Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Coconut Top Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/Coconut Top Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Dracula Cape Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Dracula Cape Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Hide Vest Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/Hide Vest Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Hide Vest Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/Hide Vest Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Hoodie Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Hoodie Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Jump Suit Blue Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Jump Suit Blue Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Jump Suit Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Jump Suit Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Longsleeve T-Shirt Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Longsleeve T-Shirt Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Lumberjack Hoodie Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Lumberjack Hoodie Male.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Shirt Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/Shirt Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Shirt Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/Shirt Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "T-Shirt Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/T-Shirt Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "T-Shirt Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/T-Shirt Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Tank Top Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/Tank Top Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Tank Top Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/Tank Top Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Torso Male Dark",
+    "mesh_names": [],
+    "file": "Male/Chest/Torso Male Dark.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Torso Male Light",
+    "mesh_names": [],
+    "file": "Male/Chest/Torso Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Male",
+    "object_name": "Wetsuit Male",
+    "mesh_names": [],
+    "file": "Male/Chest/Wetsuit Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Ballistic Vest Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Ballistic Vest Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Bone Armour Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Bone Armour Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Coco Knight Torso Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Coco Knight Torso Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Hide Halter Neck Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Hide Halter Neck Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Jacket Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Jacket Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Metal Chestplate Ice Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Metal Chestplate Ice Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Metal Chestplate Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Metal Chestplate Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Roadsign Jacket Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Roadsign Jacket Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Skin Cloth Sash Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Skin Cloth Sash Male.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Male",
+    "object_name": "Wood Armor Jacket Male",
+    "mesh_names": [],
+    "file": "Male/Chest Armor/Wood Armor Jacket Male.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Burlap Shoes Male Dark",
+    "mesh_names": [],
+    "file": "Male/Feet/Burlap Shoes Male Dark.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Burlap Shoes Male Light",
+    "mesh_names": [],
+    "file": "Male/Feet/Burlap Shoes Male Light.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Diving Fins Male Dark",
+    "mesh_names": [],
+    "file": "Male/Feet/Diving Fins Male Dark.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Diving Fins Male Light",
+    "mesh_names": [],
+    "file": "Male/Feet/Diving Fins Male Light.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Feet Male Dark",
+    "mesh_names": [],
+    "file": "Male/Feet/Feet Male Dark.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Feet Male Light",
+    "mesh_names": [],
+    "file": "Male/Feet/Feet Male Light.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Male",
+    "object_name": "Hide Boots Male",
+    "mesh_names": [],
+    "file": "Male/Feet/Hide Boots Male.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Male",
+    "object_name": "Ninja Suit Male Dark",
+    "mesh_names": [],
+    "file": "Male/Full Body/Ninja Suit Male Dark.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Male",
+    "object_name": "Ninja Suit Male Light",
+    "mesh_names": [],
+    "file": "Male/Full Body/Ninja Suit Male Light.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Male",
+    "object_name": "Buzzcut Curly Male",
+    "mesh_names": [],
+    "file": "Male/Hair/Buzzcut Curly Male.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Male",
+    "object_name": "Buzzcut Male",
+    "mesh_names": [],
+    "file": "Male/Hair/Buzzcut Male.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Male",
+    "object_name": "Crew Cut Male",
+    "mesh_names": [],
+    "file": "Male/Hair/Crew Cut Male.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Male",
+    "object_name": "Hair Bun Male",
+    "mesh_names": [],
+    "file": "Male/Hair/Hair Bun Male.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Male",
+    "object_name": "Mid Length Male",
+    "mesh_names": [],
+    "file": "Male/Hair/Mid Length Male.blend"
+  },
+  {
+    "category": "Hair",
+    "group": "Male",
+    "object_name": "Ponytail Male",
+    "mesh_names": [],
+    "file": "Male/Hair/Ponytail Male.blend"
+  },
+  {
+    "category": "Hand Armor",
+    "group": "Male",
+    "object_name": "Coco Knight Gloves Male",
+    "mesh_names": [],
+    "file": "Male/Hand Armor/Coco Knight Gloves Male.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Burlap Gloves Male Dark",
+    "mesh_names": [],
+    "file": "Male/Hands/Burlap Gloves Male Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Burlap Gloves Male Light",
+    "mesh_names": [],
+    "file": "Male/Hands/Burlap Gloves Male Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Hands Male Dark",
+    "mesh_names": [],
+    "file": "Male/Hands/Hands Male Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Hands Male Light",
+    "mesh_names": [],
+    "file": "Male/Hands/Hands Male Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Leather Gloves Male Dark",
+    "mesh_names": [],
+    "file": "Male/Hands/Leather Gloves Male Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Leather Gloves Male Light",
+    "mesh_names": [],
+    "file": "Male/Hands/Leather Gloves Male Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Road Sign Gloves Male Dark",
+    "mesh_names": [],
+    "file": "Male/Hands/Road Sign Gloves Male Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Road Sign Gloves Male Light",
+    "mesh_names": [],
+    "file": "Male/Hands/Road Sign Gloves Male Light.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Wood Armor Gloves Male Dark",
+    "mesh_names": [],
+    "file": "Male/Hands/Wood Armor Gloves Male Dark.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Male",
+    "object_name": "Wood Armor Gloves Male Light",
+    "mesh_names": [],
+    "file": "Male/Hands/Wood Armor Gloves Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Brian Male Dark",
+    "mesh_names": [],
+    "file": "Male/Head/Brian Male Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Carl Male Dark",
+    "mesh_names": [],
+    "file": "Male/Head/Carl Male Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "David Male Dark",
+    "mesh_names": [],
+    "file": "Male/Head/David Male Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Edward Male Dark",
+    "mesh_names": [],
+    "file": "Male/Head/Edward Male Dark.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Frank Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/Frank Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "George Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/George Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Howard Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/Howard Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Ian Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/Ian Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "James Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/James Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Mike Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/Mike Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Nick Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/Nick Male Light.blend"
+  },
+  {
+    "category": "Head",
+    "group": "Male",
+    "object_name": "Oliver Male Light",
+    "mesh_names": [],
+    "file": "Male/Head/Oliver Male Light.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Male",
+    "object_name": "Ballistic Helmet Male",
+    "mesh_names": [],
+    "file": "Male/Head Armor/Ballistic Helmet Male.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Male",
+    "object_name": "Ghost Sheet Male",
+    "mesh_names": [],
+    "file": "Male/Head Armor/Ghost Sheet Male.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Male",
+    "object_name": "Knights Helmet Male",
+    "mesh_names": [],
+    "file": "Male/Head Armor/Knights Helmet Male.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Male",
+    "object_name": "Prisoner Hood Male",
+    "mesh_names": [],
+    "file": "Male/Head Armor/Prisoner Hood Male.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Male",
+    "object_name": "Silly Horse Mask Male",
+    "mesh_names": [],
+    "file": "Male/Head Armor/Silly Horse Mask Male.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Male",
+    "object_name": "Ballistic Leg Armor Male",
+    "mesh_names": [],
+    "file": "Male/Leg Armor/Ballistic Leg Armor Male.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Male",
+    "object_name": "Coco Knight Pants Male",
+    "mesh_names": [],
+    "file": "Male/Leg Armor/Coco Knight Pants Male.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Male",
+    "object_name": "Wood Armor Pants Male",
+    "mesh_names": [],
+    "file": "Male/Leg Armor/Wood Armor Pants Male.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "BDU Pants Male",
+    "mesh_names": [],
+    "file": "Male/Legs/BDU Pants Male.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Burlap Pants Male",
+    "mesh_names": [],
+    "file": "Male/Legs/Burlap Pants Male.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Coconut Legs Male Dark",
+    "mesh_names": [],
+    "file": "Male/Legs/Coconut Legs Male Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Coconut Legs Male Light",
+    "mesh_names": [],
+    "file": "Male/Legs/Coconut Legs Male Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Grass Skirt Legs Male Dark",
+    "mesh_names": [],
+    "file": "Male/Legs/Grass Skirt Legs Male Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Grass Skirt Legs Male Light",
+    "mesh_names": [],
+    "file": "Male/Legs/Grass Skirt Legs Male Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Hide Pants Male Dark",
+    "mesh_names": [],
+    "file": "Male/Legs/Hide Pants Male Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Hide Pants Male Light",
+    "mesh_names": [],
+    "file": "Male/Legs/Hide Pants Male Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Legs Male Dark",
+    "mesh_names": [],
+    "file": "Male/Legs/Legs Male Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Legs Male Light",
+    "mesh_names": [],
+    "file": "Male/Legs/Legs Male Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Pants Male",
+    "mesh_names": [],
+    "file": "Male/Legs/Pants Male.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Shorts Male Dark",
+    "mesh_names": [],
+    "file": "Male/Legs/Shorts Male Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Shorts Male Light",
+    "mesh_names": [],
+    "file": "Male/Legs/Shorts Male Light.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Skirt Hide Male Dark",
+    "mesh_names": [],
+    "file": "Male/Legs/Skirt Hide Male Dark.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Male",
+    "object_name": "Skirt Hide Male Light",
+    "mesh_names": [],
+    "file": "Male/Legs/Skirt Hide Male Light.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Neutral",
+    "object_name": "Heavy Plate Jacket",
+    "mesh_names": [],
+    "file": "Neutral/Chest/Heavy Plate Jacket.blend"
+  },
+  {
+    "category": "Chest",
+    "group": "Neutral",
+    "object_name": "Snow Jacket",
+    "mesh_names": [],
+    "file": "Neutral/Chest/Snow Jacket.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Neutral",
+    "object_name": "Diving Tank",
+    "mesh_names": [],
+    "file": "Neutral/Chest Armor/Diving Tank.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Neutral",
+    "object_name": "Hide Poncho",
+    "mesh_names": [],
+    "file": "Neutral/Chest Armor/Hide Poncho.blend"
+  },
+  {
+    "category": "Chest Armor",
+    "group": "Neutral",
+    "object_name": "Knight Roadsign Vest",
+    "mesh_names": [],
+    "file": "Neutral/Chest Armor/Knight Roadsign Vest.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Neutral",
+    "object_name": "Boots",
+    "mesh_names": [],
+    "file": "Neutral/Feet/Boots.blend"
+  },
+  {
+    "category": "Feet",
+    "group": "Neutral",
+    "object_name": "Frogboots",
+    "mesh_names": [],
+    "file": "Neutral/Feet/Frogboots.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Arctic Suit",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Arctic Suit.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Diving Suit Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Diving Suit Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Frontier Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Frontier Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Halloween Mummy",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Halloween Mummy.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Kick Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Kick Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Krieg Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Krieg Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Lumberjack Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Lumberjack Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Nomad Suit",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Nomad Suit.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Paintball Overalls",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Paintball Overalls.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Pilot Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Pilot Hazmat.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Space Suit",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Space Suit.blend"
+  },
+  {
+    "category": "Full Body",
+    "group": "Neutral",
+    "object_name": "Twitch Hazmat",
+    "mesh_names": [],
+    "file": "Neutral/Full Body/Twitch Hazmat.blend"
+  },
+  {
+    "category": "Hands",
+    "group": "Neutral",
+    "object_name": "Tactical Gloves",
+    "mesh_names": [],
+    "file": "Neutral/Hands/Tactical Gloves.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Balaclava",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Balaclava.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Beenie",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Beenie.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Bone Helmet",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Bone Helmet.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Boonie Hat",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Boonie Hat.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Bucket Hat",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Bucket Hat.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Burlap Headwrap",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Burlap Headwrap.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Candle Hat",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Candle Hat.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Cap",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Cap.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Clatter Helmet",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Clatter Helmet.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Coco Knight Head",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Coco Knight Head.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Coffeecan",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Coffeecan.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Diving Mask",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Diving Mask.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Dracula Mask",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Dracula Mask.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Frankenstein Mask",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Frankenstein Mask.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Heavy Pot",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Heavy Pot.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Hockey Mask",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Hockey Mask.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Metal Facemask",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Metal Facemask.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Miner Hat",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Miner Hat.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Mummy Mask",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Mummy Mask.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Night Vision",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Night Vision.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Party Hat",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Party Hat.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Riot Helmet",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Riot Helmet.blend"
+  },
+  {
+    "category": "Head Armor",
+    "group": "Neutral",
+    "object_name": "Wood Helmet",
+    "mesh_names": [],
+    "file": "Neutral/Head Armor/Wood Helmet.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Neutral",
+    "object_name": "Knight Roadsign Kilt",
+    "mesh_names": [],
+    "file": "Neutral/Leg Armor/Knight Roadsign Kilt.blend"
+  },
+  {
+    "category": "Leg Armor",
+    "group": "Neutral",
+    "object_name": "Roadsign Kilt",
+    "mesh_names": [],
+    "file": "Neutral/Leg Armor/Roadsign Kilt.blend"
+  },
+  {
+    "category": "Legs",
+    "group": "Neutral",
+    "object_name": "Heavy Plate Pants",
+    "mesh_names": [],
+    "file": "Neutral/Legs/Heavy Plate Pants.blend"
+  },
+  {
+    "category": "Neck Armor",
+    "group": "Neutral",
+    "object_name": "Bandana",
+    "mesh_names": [],
+    "file": "Neutral/Neck Armor/Bandana.blend"
+  }
+]
