@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "rust_character_creator"
+version = "1.0.0"
+name = "Rust Character Creator"
+tagline = "Build and edit Rust player characters from the Rust_RIG asset library"
+maintainer = "Naryun <change-this@example.com>"
+type = "add-on"
+
+# Update this if you want a stricter or looser compatibility range.
+blender_version_min = "5.1.0"
+
+# Change this if you'd rather license it differently - GPL is just the
+# default since your Rust_Tools addon uses the same license.
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+# No network or filesystem access outside the current .blend and the
+# bundled asset library, so no permissions need to be declared.
